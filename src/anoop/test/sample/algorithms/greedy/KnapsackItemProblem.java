@@ -11,7 +11,7 @@ public class KnapsackItemProblem {
         List<KnapsackItem> items = new ArrayList<>();
         items.add(new KnapsackItem(1, 100, 20));
         items.add(new KnapsackItem(2, 120, 30));
-        items.add(new KnapsackItem(1, 600, 100));
+        items.add(new KnapsackItem(1, 60, 10));
         knapSack(items, 50);
     }
 
