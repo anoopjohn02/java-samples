@@ -1,4 +1,4 @@
-package anoop.test.sample;
+package anoop.test.sample.algorithms.backtracking;
 
 import java.util.HashSet;
 import java.util.Set;
